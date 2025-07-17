@@ -1,8 +1,8 @@
 # Retico-smolAgent
 
 ## Overview
-The SmolAgents module bridges speech recognition with AI agents that can execute code, maintaining conversational context while providing intelligent responses. 
-It acts as a unified NLU (Natural Language Understanding), Dialog Manager, and NLG (Natural Language Generation) component within the Retico ecosystem.
+The SmolAgents module bridges speech recognition with AI agents that can execute code, maintaining conversational context while providing comprehensive responses. 
+It acts as a NLU (Natural Language Understanding), Dialog Manager, and NLG (Natural Language Generation) component within the Retico framework.
 
 **Agent Module vs LLM Module**
 ***SmolAgents Module:****
