@@ -18,6 +18,10 @@ This module integrates agentic AI to the Retico framework. This can generate and
 - LLM Module: might made it up reponse or "I don't have access to real-time weather data, but you can check weather.com..."
 - SmolAgents Module: Actually calls weather API and returns real temperature
 
+****Video Tutorial:****
+
+- [Link to Video in Google Drive](https://drive.google.com/file/d/1H0H4YC4aAQWitjczQPuIvLL5ng_JwTmL/view?usp=sharing)
+
 
 ## Installation
 **Prerequisites**
